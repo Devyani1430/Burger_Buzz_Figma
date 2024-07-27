@@ -6,6 +6,8 @@
 **Design Tools**
 * Figma
 
+## Images
+![Homepage Design](img1.png)
 
 **Design Focus**
 - The design emphasizes a visually appealing and appetizing look to entice customers to order burgers.
@@ -13,8 +15,6 @@
 **Target Audience**
 - The target audience for this landing page design includes [describe your target audience, e.g., young adults, families, or burger enthusiasts].
 
-## Images
-![Homepage Design](img1.png)
 
 
 
